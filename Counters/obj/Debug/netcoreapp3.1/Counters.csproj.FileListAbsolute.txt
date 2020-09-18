@@ -1,0 +1,13 @@
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.exe
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.deps.json
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.runtimeconfig.json
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.runtimeconfig.dev.json
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.dll
+C:\Users\otgax\OneDrive\Desktop\Counters\bin\Debug\netcoreapp3.1\Counters.pdb
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.AssemblyInfoInputs.cache
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.AssemblyInfo.cs
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.dll
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.pdb
+C:\Users\otgax\OneDrive\Desktop\Counters\obj\Debug\netcoreapp3.1\Counters.genruntimeconfig.cache
